@@ -1,4 +1,4 @@
-// App.js
+// App.js - DentalCare Pro Main Application
 import React, { useState } from "react";
 import NavBar from "./Components/Navbar/navBar";
 import ListarOdontologos from "./Components/Odontologo/listarOdontologo";
