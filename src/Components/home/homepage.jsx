@@ -16,8 +16,8 @@ function HomePage() {
       {/* Banner */}
       <div className="bg-blue-500 text-white py-20 px-4">
         <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-4xl font-bold mb-4">Bienvenido a la Clínica Dr. Muelitas</h1>
-          <p className="text-lg">Cuidamos de tu sonrisa con profesionalismo y dedicación.</p>
+          <h1 className="text-4xl font-bold mb-4">Bienvenido a DentalCare Pro</h1>
+          <p className="text-lg">Sistema integral de gestión para clínicas dentales modernas.</p>
         </div>
       </div>
 
